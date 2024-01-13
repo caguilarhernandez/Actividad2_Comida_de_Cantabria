@@ -3,30 +3,32 @@ layout: post
 title: "Cocido montañés"
 categories: misc
 ---
-Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....
+Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....  
 
-Ingredientes para 4 personas:  
-|Alubias blancas| |400 g|
-|Berza (Unas cuatro hojas)| |250 g|
-Cebolla --> 1
-Pimiento rojo pequeño --> 1
-Pimiento verde --> 1
-Diente de ajo --> 3
-Zanahoria --> 2
-Chorizo freco ahumado --> 1
-Morcilla ahumada --> 1
-Panceta --> 1
-Costilla de cerdo adobada --> 250 g
-Patata --> 2
-Pimentón dulce --> 2 cucharaditas.
-Sal --> Al gusto.
-Aceite de oliva --> Al gusto.
+Ingredientes para 4 personas: 
+Ingredientes          | Cantidad              |
+--------------------- | --------------------- |
+Alubias blancas       |         400g          |
+Berza (4 hojas)       |         250g          |
+Cebolla               |           1           |
+Pimiento rojo pequeño |           1           |
+Pimiento verde        |           1           |
+Diente de ajo         |           3           |
+Zanahoria             |           2           |
+Chorizo ahumado       |           1           |
+Morcilla ahumada      |           1           |
+Panceta               |           1           |
+Costilla de cerdo adobada |      250g         |
+Patata                |           2           |
+Pimentón dulce        |     2 cucharaditas    |
+Sal                   |        Al gusto       |
+Aceite de oliva       |        Al gusto       |
 
-Cómo hacer el cocido montañes:
-Dificultad. Media
-Tiempo total: 2h 50min
-Elaboración: 20 min
-Cocción: 2h 30min
+Cómo hacer el cocido montañes:  
+Dificultad. Media  
+Tiempo total: 2h 50min  
+Elaboración: 20 min  
+Cocción: 2h 30min  
 Como cualquier codido, debemos planificarlo el día anterior, pues las alubias deben estar en remojo un mínimo de 12 horas. Se trata, además, de un plato que requiere entre 2 y 3 horas de cocción dependiendo de la legumbre, así que mejor empezar con tiempo si queremos llegar a tiempo a la comida.
 
 Para empezar, en una olla grande con tapa, añade las alubias remojadas y escurridas, la cebolla pelada y cortada por la mitad, las dos zanahorias peladas, y los dos pimientos despepitados y cortados por la mitad. Cubre todo con agua fría, unos tres dedos por encima.Lleva el agua a ebullición y, con ayuda de una espumadera, retira la espuma que desprende la legumbre. Echa un poco de sal (luego rectificaremos) y tapa. Deja que las alubias se cocinen a fuego medio-bajo durante hora y media.

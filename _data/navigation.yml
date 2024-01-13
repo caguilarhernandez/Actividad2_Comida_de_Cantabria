@@ -1,12 +1,12 @@
-- title: About
+- title: Sobre nosotros
   url: /about/
-- title: Years
+- title: Año de salida del post
   url: /years/
-- title: Categories
+- title: Categorias
   url: /categories/
-- title: More
+- title: Mas
   sublinks:
-    - title: FAQ
+    - title: Preguntas frecuentes
       url: /faq/
-    - title: Docs
+    - title: Documentos
       url: /docs/

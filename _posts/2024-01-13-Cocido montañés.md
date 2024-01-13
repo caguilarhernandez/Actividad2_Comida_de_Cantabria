@@ -6,23 +6,23 @@ categories: misc
 Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....  
 
 Ingredientes para 4 personas: 
-Ingredientes          | Cantidad              |
---------------------- | --------------------- |
-Alubias blancas       |         400g          |
-Berza (4 hojas)       |         250g          |
-Cebolla               |           1           |
-Pimiento rojo pequeño |           1           |
-Pimiento verde        |           1           |
-Diente de ajo         |           3           |
-Zanahoria             |           2           |
-Chorizo ahumado       |           1           |
-Morcilla ahumada      |           1           |
-Panceta               |           1           |
-Costilla de cerdo adobada |      250g         |
-Patata                |           2           |
-Pimentón dulce        |     2 cucharaditas    |
-Sal                   |        Al gusto       |
-Aceite de oliva       |        Al gusto       |
+|Ingredientes          | Cantidad              |
+|--------------------- | --------------------- |
+|Alubias blancas       |         400g          |
+|Berza (4 hojas)       |         250g          |
+|Cebolla               |           1           |
+|Pimiento rojo pequeño |           1           |
+|Pimiento verde        |           1           |
+|Diente de ajo         |           3           |
+|Zanahoria             |           2           |
+|horizo ahumado       |           1           |
+|Morcilla ahumada      |           1           |
+|Panceta               |           1           |
+|Costilla de cerdo adobada |      250g         |
+|Patata                |           2           |
+|Pimentón dulce        |     2 cucharaditas    |
+|Sal                   |        Al gusto       |
+|Aceite de oliva       |        Al gusto       |
 
 Cómo hacer el cocido montañes:  
 Dificultad. Media  

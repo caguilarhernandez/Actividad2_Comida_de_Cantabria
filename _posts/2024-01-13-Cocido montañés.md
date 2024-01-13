@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cocido montañés"
-categories: comida
+categories: Platos
 ---
 Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anchoas de Santoña"
-categories: misc
+categories: Entrantes
 ---
 El origen de la anchoa delCantábrico se asocia al proceso de la salazón, un método de conserva tradicional, muy utilizado por navegantes y mercaderes a lo largo de la historia.
 

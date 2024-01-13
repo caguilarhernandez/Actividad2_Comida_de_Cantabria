@@ -10,7 +10,7 @@ Nuestro correo y redes sociales para seguir apoyandonos:
 
 email: 
 
--carlos.aguilarhernandez@iesmiguelherrero.com
+- (carlos.aguilarhernandez@iesmiguelherrero.com)[carlos.aguilarhernandez@iesmiguelherrero.com]
 
 -julian.sainzrodriguez@iesmiguelherrero.com
 

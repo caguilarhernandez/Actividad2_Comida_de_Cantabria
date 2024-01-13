@@ -13,7 +13,7 @@ Incluiremos también un top 3 de la mejor comida en cantabria.
 El propósito original de este tema es reemplazar el tema Jekyll predeterminado. 
 
 **Estructura y diseño del sitio web:**  
-Utilizaremos un tema de Jekyll, que va a ser el siguiente: https://github.com/link9596/jekyll-theme-Hydrogen
+Utilizaremos un tema de Jekyll, que va a ser el siguiente: http://jekyllthemes.org/themes/hamilton/
 
 **Planificación del sitio web:**  
 Carlos va a ser el propietario, que va a almacenar el repositorio y el que va a organizar el trabajo.  

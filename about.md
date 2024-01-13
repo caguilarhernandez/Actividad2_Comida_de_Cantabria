@@ -9,11 +9,13 @@ Nosotros solo estamos intentando que la gente reconozca que la comida tipica de 
 Nuestro correo y redes sociales para seguir apoyandonos:
 
 email: 
+
 -carlos.aguilarhernandez@iesmiguelherrero.com
 
 -julian.sainzrodriguez@iesmiguelherrero.com
 
 redes sociales:
+
 -https://twitter.com/julian
 
 -https://twitter.com/carlos

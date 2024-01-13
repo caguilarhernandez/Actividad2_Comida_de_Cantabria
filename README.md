@@ -7,7 +7,7 @@
 La temática de nuestro sitio va a ser de la comida típica de Cantabria.
 
 **Descripción del sitio web:**  
-En nuestro sitio web vamos a describir la elavoración de cada plato, los ingredientes necesarios y el precio de cada uno.
+En nuestro sitio web vamos a describir la elavoración de cada plato y los ingredientes necesarios.
 Incluiremos también un top 3 de la mejor comida en cantabria.
 El propósito original de este tema es reemplazar el tema Jekyll predeterminado. 
 

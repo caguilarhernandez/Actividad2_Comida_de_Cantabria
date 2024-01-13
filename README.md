@@ -1,4 +1,3 @@
-# Comida Cántabra <!-- omit in toc -->
 # Actividad2_Comida_de_Cantabria
 ## Autores:
 ### Carlos Aguilar Hernández: Propietario

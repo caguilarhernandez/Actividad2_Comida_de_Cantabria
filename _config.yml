@@ -32,10 +32,13 @@ exclude:
 twitter:
   username: caguilarhernandez
   card: summary
+facebook:
+  username: caguilarhernandez
 logo: bandera.jfif
 social:
   name: Carlos Aguilar Hernández y Julián Sainz Rodríguez
   links:
+    - https://www.twitter.com/caguilarheernandez
     - https://www.facebook.com/caguilarheernandez
     - https://github.com/caguilarhernandez
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx

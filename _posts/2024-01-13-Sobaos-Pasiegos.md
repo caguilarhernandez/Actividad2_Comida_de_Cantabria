@@ -22,14 +22,14 @@ Ingredientes para 10:
 
 Cómo preparar unos sobaos pasiegos caseros:
 
-1. Preparación de la masa base de los sobaos pasiegos:
+1. Preparación de la masa base de los sobaos pasiegos:  
 En un bol grande batimos los huevos con al azúcar y la miel (o el azúcar invertido), la sal, la ralladura de limón y la mantequilla. Antes de incorporar todos los ingredientes en fundamental que la mantequilla tenga una textura blandita, en pomada.
 
 Podemos saltarnos el proceso calentando la mantequilla en el micro y dejándola enfriar antes de utilizarla. Lo ideal es que tengamos la precaución de quitarla de la nevera con antelación para que, en el momento de utilizarla, esté bien blandita y por supuesto, sea de gran calidad.
 
 Añadimos la harina con la levadura e incorporamos bien. Rellenamos los molde hasta no más de 2/3 de su altura.
 
-2. Horneado y presentación final de los sobaos:
+2. Horneado y presentación final de los sobaos:  
 Precalentamos el horno a 180º C con aire arriba y abajo (sin aire).
 
 Horneamos los sobaos en la bandeja del medio a 180º C con aire arriba y abajo durante unos 15-20 minutos. Recordad que los hornos son un mundo, cada uno conoce el suyo.

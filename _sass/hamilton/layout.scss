@@ -445,7 +445,11 @@ ul.post-taxonomies {
   }
 }
 
-
+ul.post-tags {
+  li {
+    border-radius: 0.5em;
+  }
+}
 
 ul.post-categories {
   li {

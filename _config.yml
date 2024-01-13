@@ -1,8 +1,8 @@
 title: Comidad de Cantabria
 description: Un blog donde subimos posts sobre las comidas tipicas de Cantabria.
 author: Carlos Aguilar Hernández y Julián Sainz Rodríguez
-avatar: /bandera.png
-email: carlos.aguilarhernandez@iesmiguelherrero.com julian.sainzrodriguez@iesmiguelherrero.com
+avatar: /bandera.jfif
+email: carlos.aguilarhernandez@iesmiguelherrero.com, julian.sainzrodriguez@iesmiguelherrero.com
 
 plugins:
   - jekyll-seo-tag
@@ -30,14 +30,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: caguilarhernandez
   card: summary
-logo: logo.png
+logo: bandera.jfif
 social:
-  name: Shangzhi Huang
+  name: Carlos Aguilar Hernández y Julián Sainz Rodríguez
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://twitter.com/caguilarhernandez
+    - https://www.facebook.com/caguilarheernandez
+    - https://github.com/caguilarhernandez
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en

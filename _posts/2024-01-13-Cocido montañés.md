@@ -5,9 +5,9 @@ categories: misc
 ---
 Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....
 
-Ingredientes para 4 personas:
-Alubias blancas --> 400 g
-Berza (Unas cuatro hojas) --> 250 g
+Ingredientes para 4 personas:  
+|Alubias blancas| |400 g|
+|Berza (Unas cuatro hojas)| |250 g|
 Cebolla --> 1
 Pimiento rojo pequeño --> 1
 Pimiento verde --> 1

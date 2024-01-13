@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Comidad de Cantabria
+description: Un blog donde subimos posts sobre las comidas tipicas de Cantabria.
+author: Carlos Aguilar Hernández y Julián Sainz Rodríguez
+avatar: /bandera.png
+email: carlos.aguilarhernandez@iesmiguelherrero.com julian.sainzrodriguez@iesmiguelherrero.com
 
 plugins:
   - jekyll-seo-tag

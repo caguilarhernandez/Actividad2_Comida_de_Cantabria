@@ -12,10 +12,10 @@ email:
 
 - [carlos.aguilarhernandez@iesmiguelherrero.com](carlos.aguilarhernandez@iesmiguelherrero.com)
 
--julian.sainzrodriguez@iesmiguelherrero.com
+- [julian.sainzrodriguez@iesmiguelherrero.com](julian.sainzrodriguez@iesmiguelherrero.com)
 
 redes sociales:
 
--https://twitter.com/julian
+- [https://twitter.com/carlos](https://twitter.com/carlos)
 
--https://twitter.com/carlos
+- [https://twitter.com/julian](https://twitter.com/julian)

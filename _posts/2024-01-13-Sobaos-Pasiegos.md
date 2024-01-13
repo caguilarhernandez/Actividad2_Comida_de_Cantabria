@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobaos Pasiegos"
-categories: misc
+categories: Postres
 ---
 
 El sobao pasiego es un postre típico de la gastronomía cantábrica, especificamente de la comarca de los Valles Pasiegos. Aunque originalmente se producía y consumía sólo en su zona de elaboración, actualmente se comercializa en toda España. Su lugar esencial de producción sigue siendo la comarca Pasiega. Sólo allí se elabora el auténtico sobao.

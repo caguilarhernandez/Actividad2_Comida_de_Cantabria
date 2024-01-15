@@ -3,6 +3,7 @@ layout: post
 title: "Cocido montañés"
 categories: Platos
 ---
+El cocido montañés es un plato de cuchara típico de la cocina cántabra. Es un guiso de interior cuyos componentes esenciales son la alubia blanca y la berza a las que se añade el compango compuesto de chorizo, costilla, morcilla y tocino procedentes del mataciu del chon.
 Hay tantas recetas en Cantabria como Cociner@s. Hay quien cuece la berza aparte, quien ehca morcilla de arroz, quien añade tocino y oreja....  
 
 Ingredientes para 4 personas: 

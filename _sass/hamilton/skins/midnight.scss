@@ -1,7 +1,7 @@
 $text-color:            #524f4f !default;
 $text-color-light:      #e8ebea !default;
 $background-color:      #9691fa !default;
-$code-background-color: #f5f4eb !default;
+$code-background-color: #4c43fa !default;
 
 $border-color:          mix($text-color, $background-color, 30%) !default;
 $border-color-light:    darken($border-color, 5%) !default;

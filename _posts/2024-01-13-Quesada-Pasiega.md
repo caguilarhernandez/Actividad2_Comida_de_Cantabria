@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quesada Pasiega"
-categories: postre
+categories: Postres
 ---
 
 Un dulce cuya receta ha sido transmitida de generación en generación y que con el paso de los años se ha convertido en uno de los postres más representativos de Cantabria y típico de los valles Pasiegos.

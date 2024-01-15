@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quesos de Cantabria"
-categories: entrante
+categories: Entrantes
 ---
 
 Sus orígenes están fuertemente ligados a la cultura mediterránea, era prácticamente desconocido en las culturas orientales y aún no había sido inventado en la América precolombina.

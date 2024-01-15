@@ -16,6 +16,6 @@ email:
 
 redes sociales:
 
-- [https://twitter.com/carlos](https://twitter.com/carlos)
+- [https://facebook.com/carlos](https://facebook.com/carlos)
 
-- [https://twitter.com/julian](https://twitter.com/julian)
+- [https://facebook.com/julian](https://facebook.com/julian)

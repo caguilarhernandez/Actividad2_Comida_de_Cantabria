@@ -19,6 +19,7 @@ layout: page
     {%- endfor -%}
   </ul>
 </div>
+
 {% comment %} Show posts by taxonomy {% endcomment %}
 {%- for taxonomy in taxonomies -%}
   <h2 id="{{ taxonomy.name }}">
@@ -32,6 +33,9 @@ layout: page
       </li>
     {%- endfor -%}
   </ul>
+  <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+{%- endfor -%}
+
 <script>
   function backToTop() {
     const main = document.getElementById("site-main");

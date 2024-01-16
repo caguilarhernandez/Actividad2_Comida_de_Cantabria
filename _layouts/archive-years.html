@@ -37,7 +37,7 @@ layout: page
     {%- assign posts = taxonomy.items -%}
     {%- for post in posts -%}
       <li>
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.time | time: "%d-%h-%s" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <time datetime="{{ page.time | time_to_xmlschema }}">{{ post.time | time: "%d-%h-%s" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </li>
     {%- endfor -%}
   </ul>

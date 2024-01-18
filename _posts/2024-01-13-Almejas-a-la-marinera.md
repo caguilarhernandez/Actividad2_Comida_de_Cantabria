@@ -27,6 +27,8 @@ Dificultad: Fácil
 Tiempo total: 20m
 Cocción: 20m
 
+![Almejas](https://www.google.com/search?sca_esv=599454066&rlz=1C1FKPE_esES1085ES1085&q=almejas+a+la+marinera&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjp5u3i9uaDAxWERqQEHfYVBEwQ0pQJegQIDhAB&biw=1920&bih=953&dpr=1#imgrc=b5hAKO5mEDvQ7M)
+
 Dejamos las almejas en remojo durante 2 horas al menos, en una cacerola con agua abundante y una cuchara de sal gorda para que las almejas suelten la arena que puedan tener. Es conveniente cambiar el agua cada media hora. A continuación, abrimos las almejas, poniéndolas al vapor sobre una cazuela con un vaso de agua, una cucharadita de sal gruesa y una hoja de laurel. Según se vayan abriendo, retiramos las almejas y las reservamos. Si no tenéis un utensilio para cocer al vapor, podéis usar una cacerola que tenga tapa y un colador grande que pueda contener las almejas. En una sartén vamos haciendo el sofrito, pochando a fuego lento en aceite de oliva virgen extra la media cebolla, la guindilla y el diente de ajo muy muy picados, hasta que prácticamente se deshagan. Añadimos el pimentón y la harina y removemos rápidamente haciendo una pasta o roux. Seguidamente, incorporamos el vino de Jerez y removemos hasta que evapore su alcohol. A continuación añadimos el tomate frito y el agua de haber abierto las almejas que habremos colado previamente. Probamos y rectificamos de sal. Dejamos que se reduzca durante unos 5 minutos y metemos en la sartén las almejas que teníamos abiertas y reservadas. Dejamos otros 3 ó 4 minutos hasta que la salsa alcance el punto de espesor que nos guste y apagamos el fuego.
 
 

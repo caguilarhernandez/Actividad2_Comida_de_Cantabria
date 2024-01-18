@@ -20,6 +20,8 @@ Tiempo total: 45min
 Elaboración: 45min
 Reposo: 72horas
 
+![Anchoas](https://www.palacios.es/palacios/usuariosFtp/conexion/imagenes5332a.jpg)
+
 Hay que procurar comprar boquerones muy frescos y de tamaño grande. Sé que hay gente que no considera necesario cogelar el pescado; seguramente dará algo de pena hacerlo si tenemos la suerte de tener a mano una buena lonja a pie de mar, pero yo no me fío. Prefiero curarme en salud y congelar los boquerones al menos 48 horas para evitar el anisakis.
 
 Lo primero es lavar y secar suavemente con agua cada pescado. Después hay que limpiarlos, sin prisas, una tarea muy sencilla en cuanto le pillamos el truco. Presionando ligeramente con dos dedos en las agallas, tirar de la cabeza girándola un poco; saldrá con gran parte de las vísceras.

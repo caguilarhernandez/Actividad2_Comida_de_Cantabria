@@ -13,8 +13,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid;
-  border-bottom: 1px solid;
+  border-top: 6px solid;
+  border-bottom: 2px solid;
   min-height: $base-font-size * 3;
   line-height: $base-font-size * 3;
 
@@ -25,13 +25,13 @@
 
 .site-sidebar-button {
   position: absolute;
-  top: 3px;
+  top: 4px;
   left: $spacing-unit / 2;
 
   img {
     width: $base-font-size * 2.5;
     height: auto;
-    border-radius: 50%;
+    border-radius: 55%;
   }
 
   @media screen and (min-width: $on-small) {
@@ -53,9 +53,9 @@
 
 .site-nav {
   position: absolute;
-  top: 12px;
+  top: 13px;
   right: $spacing-unit / 2;
-  border: 1px solid;
+  border: 2px solid;
   border-radius: 0.4em;
   text-align: right;
 
@@ -93,7 +93,7 @@
 
   input:checked ~ .trigger {
     display: block;
-    padding-bottom: 5px;
+    padding-bottom: 6px;
   }
 
   ul.trigger {
@@ -105,7 +105,7 @@
     li a {
       line-height: $base-line-height * $base-font-size * 1.15;
       display: inline;
-      padding: 5px 10px;
+      padding: 6px 11px;
       margin-left: auto;
     }
 
@@ -116,7 +116,7 @@
     }
 
     .dropdown-content a {
-      padding: 5px 10px;
+      padding: 6px 11px;
       display: inline-block;
       text-align: right;
       margin-left: auto;
@@ -157,7 +157,7 @@
       li a {
         display: inline-block;
         text-align: center;
-        padding: 5px 5px;
+        padding: 6px 6px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {

@@ -27,8 +27,6 @@ Tiempo de cocinado: 20min
 
 Tiempo total: 35min
 
-![Quesada pasiega](/quesada-pasiega.jpg)
-
 Precalentamos el horno a 200 ºC con calor arriba y abajo. Ponemos 500 gramos de queso fresco en un bol y lo picamos con la ayuda de unas varillas o de un tenedor.
 
 Agregamos 2 huevos M y los integramos con el queso fresco.

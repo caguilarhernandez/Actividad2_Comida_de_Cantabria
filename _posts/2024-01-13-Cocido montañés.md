@@ -26,7 +26,7 @@ Ingredientes para 4 personas:
 |Sal                   |        Al gusto       |
 |Aceite de oliva       |        Al gusto       |
 
-## Cómo hacer el cocido montañes:  
+### Cómo hacer el cocido montañes:  
 Dificultad: Media
 
 Tiempo total: 2h 50min  

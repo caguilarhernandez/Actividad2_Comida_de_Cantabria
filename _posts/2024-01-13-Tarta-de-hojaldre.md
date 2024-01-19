@@ -28,8 +28,6 @@ Para la tarta:
 
 ### Como hacer la tarta de hojaldre:
 
-![Tarta de hojaldre](/tarta-de-hojaldre.jpg)
-
 Para la crema:
 
 1.- Reserva un vaso de leche. Diluye la maicena dentro de la leche y reserva.

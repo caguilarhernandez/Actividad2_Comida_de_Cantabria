@@ -25,7 +25,7 @@ Elaboración: 45min
 
 Reposo: 72horas
 
-![Anchoas](img/anchoas-de-santoña.jpg)
+![Anchoas](/_posts/img/anchoas-de-santoña.jpg)
 
 Hay que procurar comprar boquerones muy frescos y de tamaño grande. Sé que hay gente que no considera necesario cogelar el pescado; seguramente dará algo de pena hacerlo si tenemos la suerte de tener a mano una buena lonja a pie de mar, pero yo no me fío. Prefiero curarme en salud y congelar los boquerones al menos 48 horas para evitar el anisakis.
 

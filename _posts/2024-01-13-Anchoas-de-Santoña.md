@@ -13,14 +13,19 @@ Ingredientes:
 |Sal gruesa            |         500g          |
 |Aceite de oliva virgen extra |           Al gusto           |
 
-Cómo hacer las anchoas en salazón:  
+## Cómo hacer las anchoas en salazón: 
+
 Dificulad: fácil
+
 Cabe recalcar que esta elaboración no es la de las anchoas de Santoña.  
+
 Tiempo total: 45min
+
 Elaboración: 45min
+
 Reposo: 72horas
 
-![Anchoas](https://www.palacios.es/palacios/usuariosFtp/conexion/imagenes5332a.jpg)
+![Anchoas](/anchoas-de-santoña.jpg)
 
 Hay que procurar comprar boquerones muy frescos y de tamaño grande. Sé que hay gente que no considera necesario cogelar el pescado; seguramente dará algo de pena hacerlo si tenemos la suerte de tener a mano una buena lonja a pie de mar, pero yo no me fío. Prefiero curarme en salud y congelar los boquerones al menos 48 horas para evitar el anisakis.
 

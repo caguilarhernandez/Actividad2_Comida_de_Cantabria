@@ -13,7 +13,7 @@ Ingredientes:
 |Sal gruesa            |         500g          |
 |Aceite de oliva virgen extra |           Al gusto           |
 
-## Cómo hacer las anchoas en salazón: 
+### Cómo hacer las anchoas en salazón: 
 
 Dificulad: fácil
 

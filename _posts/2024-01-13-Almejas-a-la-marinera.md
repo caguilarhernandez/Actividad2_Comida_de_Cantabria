@@ -22,9 +22,12 @@ Ingredientes para 4 personas:
 |Perejil fresco        |        Al gusto       |
 |Aceite de oliva virgen extra|  Al gusto       |
 
-Elaboración:
+# Elaboración:
+
 Dificultad: Fácil
+
 Tiempo total: 20m
+
 Cocción: 20m
 
 ![Almejas](/almejas-a-la-marinera.jpg)

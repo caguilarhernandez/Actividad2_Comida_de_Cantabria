@@ -21,7 +21,7 @@ Ingredientes:
 |Cuajo liquido         |        25 gotas       |
 |NUeces picadas        |       Al gusto        |
 
-## Elaboración:
+### Elaboración:
 
 ![Quesos cantabros](/quesos-pasiegos.jpg)
 

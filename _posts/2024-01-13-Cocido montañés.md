@@ -35,7 +35,7 @@ Elaboración: 20 min
 
 Cocción: 2h 30min  
 
-![Cocido montañes](/cocido-montanes.jpg)
+![Cocido montañes](_posts/img/cocido-montanes.jpg)
 
 Como cualquier codido, debemos planificarlo el día anterior, pues las alubias deben estar en remojo un mínimo de 12 horas. Se trata, además, de un plato que requiere entre 2 y 3 horas de cocción dependiendo de la legumbre, así que mejor empezar con tiempo si queremos llegar a tiempo a la comida.
 

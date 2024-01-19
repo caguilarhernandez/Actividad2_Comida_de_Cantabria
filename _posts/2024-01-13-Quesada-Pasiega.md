@@ -19,7 +19,7 @@ Ingredientes para 9 personas:
 |Ralladura de limón    |        1 limón        |
 |Canela                |   Media cucharadita   |
 
-## Cómo hacer la quesada:
+### Cómo hacer la quesada:
 
 Tiempo de preparación: 15min
 

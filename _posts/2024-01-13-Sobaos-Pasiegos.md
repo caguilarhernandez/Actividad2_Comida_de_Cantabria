@@ -20,7 +20,9 @@ Ingredientes para 10:
 |Sal                   |           4g          |
 |Papel vegetal         |Dependiendo de la cantidad|
 
-Cómo preparar unos sobaos pasiegos caseros:
+## Cómo preparar unos sobaos pasiegos caseros:
+
+![Sobas pasiegos](/sobaos-pasiegos.jpg)
 
 1-Preparación de la masa base de los sobaos pasiegos:
 

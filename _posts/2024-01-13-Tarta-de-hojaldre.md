@@ -26,7 +26,7 @@ Para la tarta:
 |Azúcar glass          |        1 cucharada    |
 |Molde redondo         |     24 cm x 4 cm      |
 
-## Como hacer la tarta de hojaldre:
+### Como hacer la tarta de hojaldre:
 
 ![Tarta de hojaldre](/tarta-de-hojaldre.jpg)
 

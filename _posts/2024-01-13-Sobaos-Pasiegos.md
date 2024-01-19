@@ -22,8 +22,6 @@ Ingredientes para 10:
 
 ### Cómo preparar unos sobaos pasiegos caseros:
 
-![Sobas pasiegos](/sobaos-pasiegos.jpg)
-
 1-Preparación de la masa base de los sobaos pasiegos:
 
 En un bol grande batimos los huevos con al azúcar y la miel (o el azúcar invertido), la sal, la ralladura de limón y la mantequilla. Antes de incorporar todos los ingredientes en fundamental que la mantequilla tenga una textura blandita, en pomada.

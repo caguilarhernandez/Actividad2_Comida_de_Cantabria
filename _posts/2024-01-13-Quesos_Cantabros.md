@@ -23,8 +23,6 @@ Ingredientes:
 
 ### Elaboración:
 
-![Quesos cantabros](/quesos-pasiegos.jpg)
-
 La acidez de la leche al comenzar el proceso de elaboración es de 18-20º Dornic como máximo. La coagulación de la leche se efectúa con cuajo animal u otros enzimas coagulantes que estén autorizados por el Consejo Regulador de la D.O. Queso Nata de Cantabria. Este proceso se realiza a una temperatura de 30º C durante 40 minutos.
 
 Cabe destacar que la obtención del cuajo utilizado en la elaboración procede de terneros lechales de las propias vacas “Pintas de Cantabria”.
